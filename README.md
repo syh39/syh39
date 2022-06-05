@@ -2,7 +2,7 @@
  
  <!-- https://github.com/leviarista/github-profile-header-generator -->
  
-![Header](./github-header-image (2).png)
+![Header](./github-header-image(2).png)
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <p align="center"> Techs that I've used at least once </p>
